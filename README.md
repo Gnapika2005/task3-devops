@@ -19,4 +19,4 @@ This project demonstrates Git best practices including branching, tagging, and p
 2. Follow Git commands to simulate a team workflow
 
 ## Author
-Your Name
+P.Gnapika parameshwari
